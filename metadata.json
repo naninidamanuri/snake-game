@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent Beatz",
+  "description": "A dark neon Snake game paired with a built-in music player featuring AI-generated demo tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
